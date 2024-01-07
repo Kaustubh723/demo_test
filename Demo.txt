@@ -1,8 +1,3 @@
 Hello 
-<<<<<<< HEAD
 This is test file.
-=======
-This is test file
-
-Edit from GitHu
->>>>>>> 98e52bf805aef98075fc3bf36a526461b30318f0
+Edit from GitHuB
