@@ -2,4 +2,8 @@ Hello
 This is test file.
 Edit from GitHuB
 My name is Harry
+<<<<<<< HEAD
 123
+=======
+Todays Date is 10 January
+>>>>>>> 67982c8a454fa32f00b357441b60bc3af6532ca0
